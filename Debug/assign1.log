@@ -1,0 +1,26 @@
+﻿  assign1.cpp
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(63): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(69): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(476): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(915): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(916): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(917): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(962): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(963): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(990): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(991): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1027): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1028): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1052): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1053): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1089): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1090): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1091): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1125): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1126): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1127): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1171): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1172): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+\\mac\home\downloads\cs4247_assign1_2017_todo\assign1.cpp(1173): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  assign1.vcxproj -> \\Mac\Home\Downloads\cs4247_assign1_2017_todo\Debug\assign1.exe
+  assign1.vcxproj -> Debug\assign1.pdb (Full PDB)

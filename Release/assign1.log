@@ -1,0 +1,27 @@
+﻿  assign1.cpp
+assign1.cpp(67): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+assign1.cpp(73): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+assign1.cpp(401): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(809): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(810): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(811): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(856): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(857): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(884): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(885): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(921): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(922): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(946): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(947): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(991): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(992): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(993): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(1028): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(1029): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(1030): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(1074): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(1075): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+assign1.cpp(1076): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  assign1.vcxproj -> \\Mac\Home\Downloads\cs4247_assign1_2017_todo\Release\assign1.exe
+  assign1.vcxproj -> Release\assign1.pdb (Full PDB)
